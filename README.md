@@ -1,6 +1,6 @@
 ### 
 <h1 align="center">Hi 👋, I'm Arij</h1>
-<h3 align="center"> ✨ A passionate Web Developer Student & Software Engineer from Tunisia 👨‍💻</h3>
+<h3 align="center"> ✨ A passionate Web Developer  & Software Engineer from Tunisia 👨‍💻</h3>
 <img align="right" src="https://cdn.dribbble.com/users/1314475/screenshots/3031368/me.gif" alt="Girl" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arij-abid&label=Profile%20views&color=0e75b6&style=flat" alt="arij-abid" /> </p>
 
